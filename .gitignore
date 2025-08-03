@@ -1,6 +1,6 @@
 *.log
 .DS_Store
-.env
+# .env - Disable this file just for learning purposes
 .env.backup
 .env.production
 .phpactor.json
